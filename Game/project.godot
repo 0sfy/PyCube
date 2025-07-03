@@ -15,12 +15,8 @@ _global_script_class_icons={
 
 [application]
 
-config/name="python_blocks"
+config/name="Pycube"
 config/icon="res://icon.png"
-
-[filesystem]
-
-import/open_asset_import/use_fbx=false
 
 [importer_defaults]
 
@@ -45,11 +41,6 @@ texture={
 "svg/scale": 1.0
 }
 
-[locale]
-
-locale_filter=[ 0, [ "es" ] ]
-
 [rendering]
 
-quality/reflections/texture_array_reflections.mobile=true
 environment/default_environment="res://default_env.tres"
