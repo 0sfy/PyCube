@@ -1,0 +1,30 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/pruevas/test soil.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scenes/characters scenes/KinematicBody2D.tscn" type="PackedScene" id=2]
+
+[node name="prueva" type="Node2D"]
+
+[node name="KinematicBody2D" parent="." instance=ExtResource( 2 )]
+position = Vector2( 53.4609, 230.647 )
+
+[node name="suelo" type="Node2D" parent="."]
+position = Vector2( 11.8921, 24.9734 )
+
+[node name="StaticBody2D4" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 194.786, 229.452 )
+
+[node name="StaticBody2D6" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 131.539, 229.077 )
+
+[node name="StaticBody2D5" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 162.897, 229.452 )
+
+[node name="StaticBody2D3" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 100.357, 228.922 )
+
+[node name="StaticBody2D2" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 68.6885, 228.547 )
+
+[node name="StaticBody2D" parent="suelo" instance=ExtResource( 1 )]
+position = Vector2( 36.5153, 228.344 )

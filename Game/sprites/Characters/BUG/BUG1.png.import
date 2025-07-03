@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BUG1.png-fc899c097e24a972d325be465a24cbd7.stex"
+path="res://.import/BUG1.png-1492dfea8d74d934ffb424cf507b4f60.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/Characters/BUG/BUG1.png"
-dest_files=[ "res://.import/BUG1.png-fc899c097e24a972d325be465a24cbd7.stex" ]
+source_file="res://Sprites/Characters/Bug/BUG1.png"
+dest_files=[ "res://.import/BUG1.png-1492dfea8d74d934ffb424cf507b4f60.stex" ]
 
 [params]
 
