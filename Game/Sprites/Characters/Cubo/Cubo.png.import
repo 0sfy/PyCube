@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CUBO4.png-d1545133beb20ba835052897b6e2e391.stex"
+path="res://.import/Cubo.png-4e65b61539c928eab8429a0207360d6c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Characters/Cubo/CUBO4.png"
-dest_files=[ "res://.import/CUBO4.png-d1545133beb20ba835052897b6e2e391.stex" ]
+source_file="res://Sprites/Characters/Cubo/Cubo.png"
+dest_files=[ "res://.import/Cubo.png-4e65b61539c928eab8429a0207360d6c.stex" ]
 
 [params]
 
